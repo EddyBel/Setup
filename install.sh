@@ -12,8 +12,9 @@ errorString="command not found"
 if [[ "$aptVersion" == *"$errorString"* ]]; then
     echo "No existe apt"
 else
-    source "${pathBase}/scripts/apt.sh"  # Scripts de apt
-    source "${pathBase}/scripts/node.sh" # Scripts de node js
-    source "${pathBase}/scripts/nvim.sh" # Scripts de neovim
-    source "${pathBase}/scripts/zsh.sh"  # Scripts de zsh
+    source "${pathBase}/scripts/apt.sh"   # Scripts de apt
+    source "${pathBase}/scripts/node.sh"  # Scripts de node js
+    source "${pathBase}/scripts/nvim.sh"  # Scripts de neovim
+    source "${pathBase}/scripts/zsh.sh"   # Scripts de zsh
+    source "${pathBase}/scripts/fonts.sh" # Scripts de fuentes
 fi

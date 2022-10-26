@@ -1,14 +1,10 @@
 <h1 align="center" >Setup</h1>
 
----
-
 Automatización de las instalaciones y programas basicos ejecutando solo un script.
 
 ![PORTADA](./assets/Setup%20portada.png)
 
 # Paquetes que se instalan
-
----
 
 ## Apt paquetes
 
@@ -41,6 +37,14 @@ Automatización de las instalaciones y programas basicos ejecutando solo un scri
 - [OhMyZsh](https://ohmyz.sh/)
 - [Powerlevel10k](https://github.com/romkatv/powerlevel10k) ( Tema para ohmyzsh )
 - [Dracula gnome-terminal](https://draculatheme.com/gnome-terminal) ( Temas del terminal )
+
+# Fuentes
+
+Fuentes descargadas de [Nerd Fonts](https://www.nerdfonts.com/).
+
+- Caskaydia Cove Nerd Font
+- CodeNewRoman Nerd Font
+- Hack Nerd Font
 
 # Vista resultado
 
